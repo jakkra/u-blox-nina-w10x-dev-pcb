@@ -1,0 +1,21 @@
+{
+  "C_Cpp.clang_format_style": "Visual Studio",
+  "editor.formatOnSave": false,
+  "[cpp]": {
+    "editor.quickSuggestions": true
+  },
+  "[c]": {
+    "editor.quickSuggestions": true
+  },
+  "C_Cpp.intelliSenseEngineFallback": "Enabled",
+  "files.associations": {
+    "gpio.h": "c",
+    "freertos.h": "c",
+    "task.h": "c",
+    "algorithm": "c",
+    "xiosbase": "c",
+    "xlocale": "c",
+    "*.inc": "c"
+  },
+  "idf.portWin": "COM4"
+}
